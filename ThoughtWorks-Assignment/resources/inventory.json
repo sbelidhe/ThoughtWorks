@@ -1,0 +1,59 @@
+[{
+	"location_id": "Warehouse",
+	"items": [{
+			"name": "Paracetamol",
+			"quantity": "10"
+		},
+		{
+			"name": "Ibuprofen",
+			"quantity": "50"
+		},
+		{
+			"name": "Syringe",
+			"quantity": "80"
+		},
+		{
+			"name": "Scalpel",
+			"quantity": "100"
+		}
+	]
+}, {
+	"location_id": "ICU",
+	"items": [{
+			"name": "Paracetamol",
+			"quantity": "0"
+		},
+		{
+			"name": "Ibuprofen",
+			"quantity": "20"
+		},
+		{
+			"name": "Syringe",
+			"quantity": "7"
+		},
+		{
+			"name": "Scalpel",
+			"quantity": "8"
+		}
+	]
+}, {
+	"location_id": "Dispensary",
+	"items": [{
+			"name": "Paracetamol",
+			"quantity": "50"
+		},
+		{
+			"name": "Ibuprofen",
+			"quantity": "33"
+		},
+		{
+			"name": "Syringe",
+			"quantity": "10"
+		},
+		{
+			"name": "Scalpel",
+			"quantity": "80"
+		}
+	]
+}
+]

@@ -1,0 +1,27 @@
+[{
+	"transactions": [{
+			"from": "Warehouse",
+			"to": "Dispensary",
+			"item": "Paracetamol",
+			"quantity": "2"
+		},
+		{
+			"from": "Warehouse",
+			"to": "Dispensary",
+			"item": "Ibuprofen",
+			"quantity": "5"
+		},
+		{
+			"from": "Dispensary",
+			"to": "ICU",
+			"item": "Syringe",
+			"quantity": "2"
+		},
+		{
+			"from": "Warehouse",
+			"to": "ICU",
+			"item": "Scalpel",
+			"quantity": "10"
+		}
+	]
+}]
